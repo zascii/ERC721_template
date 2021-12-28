@@ -6,9 +6,7 @@ __  __/   __  /_/ /_  /     __  / ____/ /__  /        __  /|_/ / _  _ \__  ___/_
 _  /___   _  _, _/ / /___   _  /  _  __/ _  /         _  /  / /  /  __/_  /    _  ,<   /  __/_  /  
 /_____/   /_/ |_|  \____/   /_/   /____/ /_/          /_/  /_/   \___/ /_/     /_/|_|  \___/ /_/   
                                                                                                   
-                                                                                                          
 ```
 <p align="center">
 ERC721 token template contract that can accept any erc20 token and uses Merkel tree white listing
 </p>
-
